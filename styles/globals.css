@@ -3,5 +3,8 @@
   margin: 0;
   height: auto;
   width: 95%;
-  background-color: black;
+}
+
+.navbar img {
+  width: 22rem;
 }
